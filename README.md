@@ -8,8 +8,8 @@ Static first draft for the `Noliesonly/NoliesonlySite` GitHub Pages repo.
 
 ## Current Shape
 
-- `index.html`: site markup and content.
-- `styles.css`: visual styling.
+- `index.html`: site markup, content, and embedded CSS.
+- `assets/covers/`: album cover art used by the page.
 - `.nojekyll`: tells GitHub Pages to serve files as-is.
 
 ## Launch Checklist
@@ -25,11 +25,10 @@ Static first draft for the `Noliesonly/NoliesonlySite` GitHub Pages repo.
 - Keep the repo free of personal names, portfolio links, and personal analytics IDs.
 - Before committing locally, set repo-local Git author values for this project.
 - Prefer a GitHub noreply commit email or the separate `noliesonly@gmail.com` identity.
-- Replace generated placeholder art with album covers after checking image metadata.
+- Replace image `src` values in `index.html` when swapping album art.
 
 ## Content To Replace Later
 
-- Add real album covers.
 - Add album-specific Spotify/Apple/YouTube links.
 - Add Bandcamp or direct-sale links.
 - Add mailing-list provider once selected.
