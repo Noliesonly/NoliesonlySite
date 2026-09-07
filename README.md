@@ -1,6 +1,10 @@
 # No Lies Only / Kireii Site
 
-Static first draft for the future `Noliesonly/noliesonly-site` GitHub Pages repo.
+Static first draft for the `Noliesonly/NoliesonlySite` GitHub Pages repo.
+
+## Public Preview
+
+- GitHub Pages URL: https://noliesonly.github.io/NoliesonlySite/
 
 ## Current Shape
 
@@ -11,7 +15,6 @@ Static first draft for the future `Noliesonly/noliesonly-site` GitHub Pages repo
 ## Launch Checklist
 
 - Use the public GitHub repo `Noliesonly/NoliesonlySite`.
-- Upload these files to the repo root.
 - In repo settings, enable GitHub Pages from the main branch root.
 - Add a `CNAME` file containing `noliesonly.com` only when DNS is ready to point at GitHub Pages.
 - Keep music downloads on Bandcamp, Payhip, Gumroad, Ko-fi, or similar instead of this repo.
